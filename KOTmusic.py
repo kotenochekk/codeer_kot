@@ -18,7 +18,7 @@ class KOTmusicModule(loader.Module):
 
         try:
             await message.edit(f"<blockquote><b>Ищем трек: {args}...</b><emoji document_id=5319272710688226013>⏰</emoji></blockquote>")
-            music = await message.client.inline_query("SnoopMusicbot", args)
+            music = await message.client.inline_query("LyBot", args)
             await message.delete()
 
             await message.client.send_file(
