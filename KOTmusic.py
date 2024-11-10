@@ -2,10 +2,10 @@
 # не меняйте мой код, пожалуйста, указывая что вы создатель этого модуля.
 from .. import loader, utils
 
-class MusicSearchModule(loader.Module):
+class KOTmusicModule(loader.Module):
     """Модуль для поиска музыки."""
     
-    strings: "name": "KOTmusic"
+    strings = {'name': 'KOTmusic'}
     
     @loader.command()
     async def трекcmd(self, message):
