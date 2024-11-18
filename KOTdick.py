@@ -1,3 +1,5 @@
+#meta developer: @codeer_kot
+# не меняйте мой код, пожалуйста, указывая что вы создатель этого модуля.
 from .. import loader, utils
 import asyncio
 
