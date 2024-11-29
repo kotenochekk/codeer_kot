@@ -5,3 +5,4 @@ KOTmusic
 KOTfarm
 KOTdick
 KOTWinter
+KOTNewYear
