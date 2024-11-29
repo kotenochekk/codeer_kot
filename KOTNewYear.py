@@ -8,7 +8,7 @@ class KOTNewYear(loader.Module):
     
     strings = {"name": "KOTNewYear"}
 
-    async def wintercmd(self, message):
+    async def зимаcmd(self, message):
         """- вывести сообщение сколько осталось до нг."""
         now = datetime.datetime.now()
         closing_date = datetime.datetime(now.year, 12, 31)
