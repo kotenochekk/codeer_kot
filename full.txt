@@ -1,5 +1,5 @@
 kotID
-epikotik
+randomTT
 kotBV
 KOTmusic
 KOTfarm
@@ -7,3 +7,5 @@ KOTdick
 KOTWinter
 KOTNewYear
 KOTstealGif
+KOTFLMod
+KOTIrisTrade
