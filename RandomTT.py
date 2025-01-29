@@ -1,4 +1,4 @@
-#meta developer: @codeer_kot, @angellmodules
+# meta developer: @codeer_kot, @angellmodules
 from .. import loader
 from telethon import events
 from telethon.tl.functions.messages import DeleteHistoryRequest
