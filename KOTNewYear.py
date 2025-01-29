@@ -1,4 +1,4 @@
-#meta developer: @codeer_kot
+# meta developer: @codeer_kot
 # не меняйте мой код, пожалуйста, указывая что вы создатель модуля.
 import datetime
 from .. import loader, utils
